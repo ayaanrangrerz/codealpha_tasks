@@ -1,6 +1,3 @@
-# codealpha_tasks
-Collection of C++ projects completed during CodeAlpha Internship, including Banking System, Registration System, and CGPA Calculator.
-
 # CodeAlpha Tasks
 
 This repository contains C++ projects completed as part of the CodeAlpha Internship Program.
